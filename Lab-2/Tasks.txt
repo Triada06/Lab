@@ -1,0 +1,88 @@
+1)Advanced Logic + Real-Life Algorithm Tasks 
+
+1.ATM Cash Dispenser
+	Input a withdrawal amount.
+	Print how many 100, 50, 20, 10, and 5 manat bills are needed (use minimal number of bills).
+
+2.Parking Fee Calculator
+	Input entry and exit times (e.g., 9:30 → 12:45).
+	Fee = 1.5 AZN/hour (round up to next hour).
+	Calculate total payment.
+
+2) String & Real-Life Scenarios
+
+1.Password Strength Checker
+	Input a password string.
+	Check:
+
+	Has uppercase
+
+	Has lowercase
+
+	Has digit
+
+	Has special char
+
+	Length ≥ 8
+	If so, print "Success", either way, print "Invalid password"
+
+2.Email Validator (Basic)
+	Input a string → check if it has @ and . after it (simplified validation).
+
+
+3.Find Longest Word in a Paragraph
+	Input a full sentence/paragraph.
+	Print the longest word and its length.
+
+
+3) Real-World Patterns & Mini Systems
+
+1.Currency Converter
+	Input AZN and a target currency (USD, EUR, TRY).
+	Convert using predefined rates (1AZN = 1.7 USD; 1 1 AZN = 0.51 EUR' 1 AZN = 25 TRY)
+
+2.Bus Ticket System
+	Input age and student status.
+
+	Under 6 → free
+
+	6–18 or student → 50%
+
+	60+ → 30%
+
+	Else full price (0.60 AZN)
+	Output ticket price.
+
+3.Temperature Tracker
+	Input 7 days of temps.
+	Print:
+
+	Average
+
+	Highest
+
+	Lowest
+
+4.Inventory Price Calculator
+	Input number of items and their prices.
+	Output total, average, and most expensive item.
+
+5.Simple Banking Simulation
+	Balance = 1000.
+	Ask user: deposit or withdraw.
+	Update and show balance after each operation (loop until user quits).
+
+4) idk🥀
+
+1.Count Repeated Characters in a String
+	Input: "hello world" → Output:
+	h:1, e:1, l:3, o:2, w:1, r:1, d:1.
+
+2.Word Frequency Counter
+	Input paragraph → print how many times each word appears (ignore case).
+
+3.Matrix Border Sum (optional)
+	Input square matrix → sum only the border elements.
+
+4.Digital Clock Simulation
+	Print time from 00:00 to 23:59.
