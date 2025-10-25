@@ -164,26 +164,26 @@
 
 #region word counter
 
-string input = Console.ReadLine().ToLower();//AAA => aaa
-
-string[] words = input.Split(' ');//salam salam => [salam, salam]
-
-for (int i = 0; i < words.Length; i++)
-{
-    if (words[i] == "") continue;
-
-    int count = 1;
-    for (int j = i + 1; j < words.Length; j++)
-    {
-        if (words[i] == words[j])
-        {
-            count++;
-            words[j] = "";
-        }
-    }
-
-    Console.WriteLine($"{words[i]} = {count}");
-}
+// string input = Console.ReadLine().ToLower();//AAA => aaa
+//
+// string[] words = input.Split(' ');//salam salam => [salam, salam]
+//
+// for (int i = 0; i < words.Length; i++)
+// {
+//     if (words[i] == "") continue;
+//
+//     int count = 1;
+//     for (int j = i + 1; j < words.Length; j++)
+//     {
+//         if (words[i] == words[j])
+//         {
+//             count++;
+//             words[j] = "";
+//         }
+//     }
+//
+//     Console.WriteLine($"{words[i]} = {count}");
+// }
 
 #endregion
 
@@ -248,6 +248,22 @@ for (int i = 0; i < words.Length; i++)
 
 #endregion
 
+Console.WriteLine(FindProduct(3));
+return;
 
-int a = 999;
-string aStr = a.ToString();
+static double FindProduct(int n)
+{
+    double result = 1;
+    var i = 1;
+    var k = 1;
+
+    while (i <= n)
+    {
+        result *= 1 + k * (1.0 / (i * i));
+        // result *= 1 +  (1.0 / (i * i)) * k ;
+        k *= -1;
+        i++;
+    }
+
+    return result;
+}
