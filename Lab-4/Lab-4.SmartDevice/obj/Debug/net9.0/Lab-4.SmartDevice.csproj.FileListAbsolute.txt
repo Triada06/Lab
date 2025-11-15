@@ -1,0 +1,15 @@
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.SmartDevice\bin\Debug\net9.0\Lab-4.SmartDevice.exe
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.SmartDevice\bin\Debug\net9.0\Lab-4.SmartDevice.deps.json
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.SmartDevice\bin\Debug\net9.0\Lab-4.SmartDevice.runtimeconfig.json
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.SmartDevice\bin\Debug\net9.0\Lab-4.SmartDevice.dll
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.SmartDevice\bin\Debug\net9.0\Lab-4.SmartDevice.pdb
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.SmartDevice\obj\Debug\net9.0\Lab-4.SmartDevice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.SmartDevice\obj\Debug\net9.0\Lab-4.SmartDevice.AssemblyInfoInputs.cache
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.SmartDevice\obj\Debug\net9.0\Lab-4.SmartDevice.AssemblyInfo.cs
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.SmartDevice\obj\Debug\net9.0\Lab-4.SmartDevice.csproj.CoreCompileInputs.cache
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.SmartDevice\obj\Debug\net9.0\Lab-4.SmartDevice.sourcelink.json
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.SmartDevice\obj\Debug\net9.0\Lab-4.SmartDevice.dll
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.SmartDevice\obj\Debug\net9.0\refint\Lab-4.SmartDevice.dll
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.SmartDevice\obj\Debug\net9.0\Lab-4.SmartDevice.pdb
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.SmartDevice\obj\Debug\net9.0\Lab-4.SmartDevice.genruntimeconfig.cache
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.SmartDevice\obj\Debug\net9.0\ref\Lab-4.SmartDevice.dll

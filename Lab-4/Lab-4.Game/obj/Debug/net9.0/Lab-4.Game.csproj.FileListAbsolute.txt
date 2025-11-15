@@ -1,0 +1,15 @@
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.Game\bin\Debug\net9.0\Lab-4.Game.exe
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.Game\bin\Debug\net9.0\Lab-4.Game.deps.json
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.Game\bin\Debug\net9.0\Lab-4.Game.runtimeconfig.json
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.Game\bin\Debug\net9.0\Lab-4.Game.dll
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.Game\bin\Debug\net9.0\Lab-4.Game.pdb
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.Game\obj\Debug\net9.0\Lab-4.Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.Game\obj\Debug\net9.0\Lab-4.Game.AssemblyInfoInputs.cache
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.Game\obj\Debug\net9.0\Lab-4.Game.AssemblyInfo.cs
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.Game\obj\Debug\net9.0\Lab-4.Game.csproj.CoreCompileInputs.cache
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.Game\obj\Debug\net9.0\Lab-4.Game.sourcelink.json
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.Game\obj\Debug\net9.0\Lab-4.Game.dll
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.Game\obj\Debug\net9.0\refint\Lab-4.Game.dll
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.Game\obj\Debug\net9.0\Lab-4.Game.pdb
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.Game\obj\Debug\net9.0\Lab-4.Game.genruntimeconfig.cache
+C:\Users\nizam\Documents\C#\FucakAssMentor\Lab-4\Lab-4.Game\obj\Debug\net9.0\ref\Lab-4.Game.dll
